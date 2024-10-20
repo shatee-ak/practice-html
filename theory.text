@@ -1,0 +1,10 @@
+html= hyper  text markup language
+head tag = <head> </head>
+body tag = <body> </body>
+pargraph tag = <p1>-<p6>
+heading tag = <h1> -<h6>
+tittle tag = <tittle> </tittle>
+image tag = <img src="">
+video tag = <inframe> </inframe>
+line brack = <br>
+page linkup tag = <a href="link" target="blank"> </a>
